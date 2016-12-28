@@ -42,7 +42,7 @@
           |-- kernel.elf
      ```
  
- 5. Running the Bochs simulator
+5. Running the Bochs simulator
     - Create a bochs config file
     ```
     megs:            32
