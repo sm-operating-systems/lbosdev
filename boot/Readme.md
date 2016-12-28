@@ -60,7 +60,9 @@ Create a new grub menu by creating the following config file (menu.lst)
     
     ```
      $ bochs -f bochsrc.txt -q
+     
      $ cat bochslog.txt
+    
     ```
     
 
