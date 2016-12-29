@@ -1,6 +1,6 @@
 # lbosdev
 Little book about OS development
-> [Source](https://github.com/helino/aenix)
+> [Source code available herettps://github.com/helino/aenix)
 
 
 ###Resources
