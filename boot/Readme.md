@@ -12,7 +12,7 @@
 
     ```
 3. Obtain copy of the compiled grub from the book's website
-    - [Comoiled stage2 grub](http://littleosbook.github.com/files/stage2_eltorito.)
+    - [Compiled stage2 grub](http://littleosbook.github.com/files/stage2_eltorito.)
     - GRUB 0.97 by downloading the source from ftp://alpha.gnu.org/gnu/grub/grub-0.97.tar.gz. 
     
 4. Build the ISO image using genisoimage
