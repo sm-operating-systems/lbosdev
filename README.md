@@ -1,5 +1,5 @@
 # lbosdev
-###Little book about OS development
+###[Little book about OS development](http://littleosbook.github.io/)
 > [Source code available here](https://github.com/helino/aenix)
 
 
